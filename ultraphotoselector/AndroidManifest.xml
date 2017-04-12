@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ultra.photoselector"
+     >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application >
+         <activity
+            android:name="com.ultra.photoselector.ui.PhotoSelectorActivity"
+            android:label="@string/photoselector_pic_select" >
+        </activity>
+        <activity
+            android:name="com.ultra.photoselector.ui.PhotoPreviewActivity"
+            android:label="@string/photoselector_pic_preview" >
+        </activity>
+    </application>
+
+</manifest>

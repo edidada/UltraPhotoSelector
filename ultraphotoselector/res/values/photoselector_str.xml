@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photoselector_max_select">最多只能选择</string>
+    
+    <string name="photoselector_number_pic">张图片</string>
+
+    <string name="photoselector_basic_pic_preview">基础图片预览</string>
+    <string name="photoselector_pic_preview">图片预览</string>
+    <string name="photoselector_pic_select">图片选择</string>
+    
+    <string name="app_name">PhotoSelector</string>
+    <string name="more_than_max">超过了上限</string>
+    <string name="preview">预览</string>
+    <string name="recent_photos">最近照片</string>
+    <string name="sure">确定</string>
+    <string name="select_photos">选择照片</string>
+    <string name="back">返回</string>
+    <string name="taking_pictures">拍摄照片</string>
+    <string name="max_img_limit_reached">不能选择超过%d个图像</string>
+    
+</resources>
