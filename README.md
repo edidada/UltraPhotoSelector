@@ -6,7 +6,7 @@ android平台下的图片选择器，支持多选图片，拍照，切换文件�
 
 ## License
 ```
-Copyright (C)  Tony Green, LitePal Framework Open Source Project
+Copyright (C)  Edidada, ultraphotoselector Framework Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
