@@ -2,7 +2,8 @@
 android平台下的图片选择器，支持多选图片，拍照，切换文件夹，支持api16+
 参考了以下开源项目
 * [Android-Ultra-Photo-Selector](https://github.com/AizazAZ/Android-Ultra-Photo-Selector/)
-#请在使用前初始化uim
+
+请在使用前初始化uim
 
 ## License
 ```
